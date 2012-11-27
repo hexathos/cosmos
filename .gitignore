@@ -1,0 +1,11 @@
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+src/public/.htaccess
+src/public/.htpasswd
+src/cosmos/libs/config.inc.php
+*.tpl.php
+src/logs/*.log
